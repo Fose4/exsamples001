@@ -1,0 +1,15 @@
+C:\Users\styog\Desktop\exsamples\example004_Sum\bin\Debug\net6.0\example004_Sum.exe
+C:\Users\styog\Desktop\exsamples\example004_Sum\bin\Debug\net6.0\example004_Sum.deps.json
+C:\Users\styog\Desktop\exsamples\example004_Sum\bin\Debug\net6.0\example004_Sum.runtimeconfig.json
+C:\Users\styog\Desktop\exsamples\example004_Sum\bin\Debug\net6.0\example004_Sum.dll
+C:\Users\styog\Desktop\exsamples\example004_Sum\bin\Debug\net6.0\example004_Sum.pdb
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.csproj.AssemblyReference.cache
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.AssemblyInfoInputs.cache
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.AssemblyInfo.cs
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.csproj.CoreCompileInputs.cache
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.dll
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\refint\example004_Sum.dll
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.pdb
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\example004_Sum.genruntimeconfig.cache
+C:\Users\styog\Desktop\exsamples\example004_Sum\obj\Debug\net6.0\ref\example004_Sum.dll
